@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinKitty Starting Files
