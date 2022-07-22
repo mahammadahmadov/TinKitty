@@ -129,3 +129,32 @@ p{
 .pricing-column{
   padding: 3% 2%;
 }
+
+/* CTA Section */
+
+#cta {
+  background-color: #FF4C68;
+  color: #FFF;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+/* Footer Section */
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+@media (max-width: 1000px) {
+
+  #title{
+    text-align: center;
+  }
+
+.title-image{
+  position: static;
+  transform: rotate(0deg);
+}
+
+}
