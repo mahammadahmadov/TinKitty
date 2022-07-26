@@ -146,6 +146,10 @@ p{
   text-align: center;
 }
 
+.container-fluid{
+  padding: 7% 15%;
+}
+
 @media (max-width: 1000px) {
 
   #title{
